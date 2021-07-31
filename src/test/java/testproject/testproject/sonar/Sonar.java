@@ -22,7 +22,7 @@ public class Sonar {
  public void tester()
  {
 	 int a =2;
-	
+	int g;
  }
 }
 
